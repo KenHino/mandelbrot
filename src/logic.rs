@@ -42,7 +42,6 @@ pub fn generate_mandelbrot_set(
     data
 }
 
-
 #[cfg(test)]
 mod tests {
     use super::*;
